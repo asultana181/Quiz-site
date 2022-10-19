@@ -1,0 +1,25 @@
+.question {
+    width: 850px;
+    height: auto;
+    background-color: beige;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.ans-btn {
+    border: none;
+    background-color: beige;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .question {
+        width: auto;
+        height: auto;
+        background-color: beige;
+        margin-top: 20px;
+        border-radius: 5px;
+    }
+    
+
+}

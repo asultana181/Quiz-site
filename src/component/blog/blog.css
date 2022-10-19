@@ -1,0 +1,30 @@
+.blog div
+{
+   width: 850px;
+   height: 180px;
+   background-color: rgb(231, 240, 240);
+   border-radius: 20px;
+   margin: 20px;
+   padding: 15px;
+}
+.blog
+
+{
+    padding: 30px;
+}
+.blog p{
+    padding-left: 20px;
+}
+
+@media only screen and (max-width: 768px) 
+{
+    .blog div
+    {
+       width: auto;
+       height: auto;
+       background-color: rgb(231, 240, 240);
+       border-radius: 20px;
+       margin: 20px;
+       padding: 15px;
+    }
+}

@@ -1,0 +1,15 @@
+.online-text
+{
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nev-stop
+{
+    position: sticky;
+    top: 0;
+}
+.hoverpart:hover
+{
+    background-color: lightgreen;
+    border-radius: 3px;
+}
